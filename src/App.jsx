@@ -5,35 +5,35 @@ import Testimonio from './Testimonio'; // Importamos el componente 'Testimonio' 
 const testimoniosData = [
   {
     id: 1, // ID único para identificar el testimonio.
-    nombre: 'Juan Pérez', // Nombre de la persona que da el testimonio.
-    cargo: 'Desarrollador Web', // Cargo o profesión de la persona.
-    testimonio: 'React es una biblioteca increíble para construir interfaces dinámicas.', // Opinión sobre React.
-    imagen: 'https://i.pinimg.com/736x/c9/82/48/c982482d10bea0efab8bb5af1939f0e3.jpg', // URL de la imagen asociada al testimonio.
-    alt: 'Juan Pérez en su oficina' // Descripción alternativa de la imagen (importante para accesibilidad).
+    nombre: 'Alexander Hedeon', // Nombre de la persona que da el testimonio.
+    cargo: 'Cazador de Dragones', // Cargo o profesión de la persona.
+    testimonio: 'La mejor defensa e un buen ataque.', // Opinión sobre React.
+    imagen: 'https://i.pinimg.com/564x/42/6a/a2/426aa247c92cf0f3e1db0fc3b7c1ff20.jpg', // URL de la imagen asociada al testimonio.
+    alt: 'Alexander Hedeon en el campo' // Descripción alternativa de la imagen (importante para accesibilidad).
   },
   {
     id: 2, 
-    nombre: 'Ana Gómez',
-    cargo: 'Ingeniera de Software',
-    testimonio: 'Me encanta la modularidad que ofrece React en el desarrollo de aplicaciones.',
-    imagen: 'https://i.pinimg.com/736x/52/31/b5/5231b536bc94f4049b9cd2c3fb1d8547.jpg',
-    alt: 'Ana Gómez trabajando'
+    nombre: 'Pelusa',
+    cargo: 'Dungeon Meowster',
+    testimonio: 'Miau.',
+    imagen: 'https://i.pinimg.com/564x/e7/46/b9/e746b9dff48427c4ffe1943a62541ad4.jpg',
+    alt: 'Pelusa en partida'
   },
   {
     id: 3, // ID único para identificar el testimonio.
-    nombre: 'Juan Pérez', // Nombre de la persona que da el testimonio.
-    cargo: 'Desarrollador Web', // Cargo o profesión de la persona.
-    testimonio: 'React es una biblioteca increíble para construir interfaces dinámicas.', // Opinión sobre React.
-    imagen: 'https://i.pinimg.com/736x/c9/82/48/c982482d10bea0efab8bb5af1939f0e3.jpg', // URL de la imagen asociada al testimonio.
-    alt: 'Juan Pérez en su oficina' // Descripción alternativa de la imagen (importante para accesibilidad).
+    nombre: 'Miguel Bozanbique', // Nombre de la persona que da el testimonio.
+    cargo: 'Panadero', // Cargo o profesión de la persona.
+    testimonio: 'El pan es la mejor medicina que existe.', // Opinión sobre React.
+    imagen: 'https://i.pinimg.com/564x/37/39/b3/3739b3b63fa6cb9fcd1b58aab842e2df.jpg', // URL de la imagen asociada al testimonio.
+    alt: 'Miguel Bozanbique en la panaderia' // Descripción alternativa de la imagen (importante para accesibilidad).
   },
   {
     id: 4, 
-    nombre: 'Ana Gómez',
-    cargo: 'Ingeniera de Software',
-    testimonio: 'Me encanta la modularidad que ofrece React en el desarrollo de aplicaciones.',
-    imagen: 'https://i.pinimg.com/736x/52/31/b5/5231b536bc94f4049b9cd2c3fb1d8547.jpg',
-    alt: 'Ana Gómez trabajando'
+    nombre: 'Pixie',
+    cargo: 'Barda de chult',
+    testimonio: 'La musica, el baile y unas cervezas son lo mejor para aliviar los nervios.',
+    imagen: 'https://i.pinimg.com/564x/ad/c8/02/adc802b14ef5bbf05c58b0cd9424619e.jpg',
+    alt: 'Pixie tocando'
   },
 ];
 
