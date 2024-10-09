@@ -37,7 +37,7 @@ const testimoniosData = [
   },
 ];
 
-// Componente principal de la aplicación. sssss
+// Componente principal de la aplicación. 
 const App = () => {
   return (
     <div>
